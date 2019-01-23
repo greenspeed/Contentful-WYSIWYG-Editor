@@ -1,6 +1,6 @@
 {
   "id": "summerNoteEditor",
   "name": "Summernote WYSIWYG Editor",
-  "src": "http://localhost:3000/",
+  "src": "src/index.html",
   "fieldTypes": ["Symbol", "Text"]
 }
